@@ -3,7 +3,7 @@
 Workshop slides presented at introductory workshop uploaded.
 
 # PROGRAMS REQUIRED FOR THE WORKSHOP:
-R &/or RStudio
+R &/or RStudio,
 Filezilla
 
 # Windows Users
