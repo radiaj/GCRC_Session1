@@ -2,7 +2,7 @@
 # GCRC bioinformatics workshop session 1
 Workshop slides presented at introductory workshop uploaded.
 
-# PROGRAMS REQUIRED FOR THE WORKSHOP:
+# PROGRAMS REQUIRED FOR THE WORKSHOP
 R &/or RStudio,
 Filezilla
 
